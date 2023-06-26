@@ -1,0 +1,16 @@
+*.out
+wandb/
+checkpoints/
+__pycache__/
+outputs-validation-3000.json
+outputs-validation-pretrained-law-3000.json
+outputs-validation-pretrained-law.json
+ground-truth-validation-law.json
+mlm-train/
+mlm-train-430/
+data/
+ray_local_dir/
+sweeps/
+*.pt
+process.py
+tmp_trainer/

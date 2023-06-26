@@ -1,0 +1,9 @@
+datasets
+numpy
+tqdm
+transformers[torch]
+seqeval
+gpytorch
+wandb
+evaluate
+markdownify
