@@ -32,3 +32,22 @@ bash run_script/newsgroups_longformer_propagation.sh
 ### Wikihop Dataset Preparation
 
 To use WikiHop, download data from [http://qangaroo.cs.ucl.ac.uk/](http://qangaroo.cs.ucl.ac.uk/) (can be done from command line with `gdown 1ytVZ4AhubFDOEL7o7XrIRIyhU8g9wvKA`). Then, unzip into `./data/`.
+
+## Cite
+
+```
+@inproceedings{li-etal-2023-prefix,
+    title = "Prefix Propagation: Parameter-Efficient Tuning for Long Sequences",
+    author = "Li, Jonathan  and
+      Aitken, Will  and
+      Bhambhoria, Rohan  and
+      Zhu, Xiaodan",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-short.120",
+    pages = "1408--1419",
+}
+```
