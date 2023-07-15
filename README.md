@@ -1,6 +1,6 @@
 # prefix-propagation
 
-Source code for ["Prefix-Propagation: Parameter-Efficient Tuning for Long Sequences"](https://arxiv.org/abs/2305.12086) (to be published at ACL 2023 main conference). Codebase is based off [P-tuning-v2](https://github.com/THUDM/P-tuning-v2).
+Source code for ["Prefix-Propagation: Parameter-Efficient Tuning for Long Sequences"](https://aclanthology.org/2023.acl-short.120/) (published at ACL 2023 main conference). Codebase is based off [P-tuning-v2](https://github.com/THUDM/P-tuning-v2).
 
 ![Prefix-Propagation Architecture](./figures/arch.png)
 
