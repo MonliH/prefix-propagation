@@ -53,3 +53,5 @@ To use WikiHop, download data from [http://qangaroo.cs.ucl.ac.uk/](http://qangar
     pages = "1408--1419",
 }
 ```
+
+For questions, feel free to contact me at [li.jonathan42@gmail.com](mailto:li.jonathan42@gmail.com).
